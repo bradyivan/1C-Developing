@@ -12,7 +12,7 @@ Lessons:
 1. We create a Calculator from scratch.
 1. We create a printing form from scratch. 
 
-File: First_Course_1Cv8.dt
+File: [First_Course_1Cv8.dt](./First_Course_1Cv8.dt)
 
 # Базовое программирование в 1С:
 
