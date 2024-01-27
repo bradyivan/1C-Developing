@@ -27,3 +27,5 @@ File: [First_Course_1Cv8.dt](./First_Course_1Cv8.dt)
 1. Привет 1С! Начинаем програмировать.
 1. Создаем Калкулятор из нуля.
 1. Создаем печатную форму из нуля.
+
+Файл: [First_Course_1Cv8.dt](./First_Course_1Cv8.dt)
